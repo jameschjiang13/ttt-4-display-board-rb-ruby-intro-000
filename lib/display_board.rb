@@ -1,10 +1,10 @@
 board = [" "," "," "," "," "," "," "," "," "]
 def display_board(spot)
-  puts " #{board[0]} | #{board[1]} | #{board[2]}"
+  puts " #{spot[0]} | #{spot[1]} | #{spot[2]}"
   puts "-----------"
-  puts " #{board[3]} | #{board[4]} | #{board[5]}"
+  puts " #{spot[3]} | #{spot[4]} | #{spot[5]}"
   puts "-----------"
-  puts " #{board[6]} | #{board[7]} | #{board[8]}"
+  puts " #{spot[6]} | #{spot[7]} | #{spot[8]}"
   puts "-----------"
 end
 
