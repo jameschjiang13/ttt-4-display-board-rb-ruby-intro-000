@@ -5,4 +5,4 @@ def display_board(board)
 
 end
 
-print display_board(ini_board)
+display_board(ini_board)
