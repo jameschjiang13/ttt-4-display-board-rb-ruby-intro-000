@@ -8,4 +8,5 @@ def display_board(board)
   puts "-----------"
 end
 
-display_board(ini_board)
+test_board = ["O"," "," "," "," "," "," ","X"," "]
+print display_board(test_board)
