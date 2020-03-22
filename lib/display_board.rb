@@ -1,6 +1,6 @@
 board = [" "," "," "," "," "," "," "," "," "]
 def display_board(board)
-  puts "#{board[0]}"
+  puts "#{1+1}"
 end
 
 print display_board
