@@ -1,5 +1,5 @@
 board = [" "," "," "," "," "," "," "," "," "]
-def display_boardruby
+def display_board
   puts "#{board[0]}"
 end
 
