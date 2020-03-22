@@ -8,5 +8,5 @@ def display_board(board)
   puts "-----------"
 end
 
-test_board = ["O"," "," "," "," "," "," ","X"," "]
+test_board = ["O"," "," ","O"," "," "," ","X"," "]
 print display_board(test_board)
